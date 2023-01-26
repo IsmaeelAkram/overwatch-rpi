@@ -1,0 +1,5 @@
+opencv-python
+numpy
+pychalk
+Pillow
+git+https://github.com/IsmaeelAkram/pycamera.git
